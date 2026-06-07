@@ -42,7 +42,7 @@ export default function CatalogHeader() {
             <img 
               alt="PVC Casa Moderna Logo" 
               className="h-16 md:h-20 w-auto object-contain" 
-              src="images/hero_section-logo_sinfondo.png" 
+              src="/images/hero_section-logo_sinfondo.png" 
             />
           </Link>
         </div>

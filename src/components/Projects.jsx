@@ -5,24 +5,24 @@ export default function Projects() {
   const [isGalleryOpen, setIsGalleryOpen] = useState(false);
 
   const galleryImages = [
-    "images/social_proof-img7.webp",
-    "images/galeria/1.galeria-acabados.jpg",
-    "images/galeria/2.galeria-acabados.webp",
-    "images/galeria/3.galeria-acabados.jpg",
-    "images/galeria/4.galeria-acabados.jpg",
-    "images/galeria/5.galeria-acabados.webp",
-    "images/galeria/6.galeria-acabados.webp",
-    "images/galeria/7.galeria-acabados.webp",
-    "images/galeria/8.galeria-acabados.jpg",
-    "images/galeria/9.galeria-acabados.webp",
-    "images/galeria/10.galeria-acabados.jpg",
-    "images/social_proo-img4.jpg",
-    "images/social_proof-img6.webp",
-    "images/social_proof-img2.jpg",
-    "images/social_proo-img5.jpg",
-    "images/social-proof-7.jpg",
-    "images/social-proof8.jpg",
-    "images/social-proof9.jpg",
+    "/images/social_proof-img7.webp",
+    "/images/galeria/1.galeria-acabados.jpg",
+    "/images/galeria/2.galeria-acabados.webp",
+    "/images/galeria/3.galeria-acabados.jpg",
+    "/images/galeria/4.galeria-acabados.jpg",
+    "/images/galeria/5.galeria-acabados.webp",
+    "/images/galeria/6.galeria-acabados.webp",
+    "/images/galeria/7.galeria-acabados.webp",
+    "/images/galeria/8.galeria-acabados.jpg",
+    "/images/galeria/9.galeria-acabados.webp",
+    "/images/galeria/10.galeria-acabados.jpg",
+    "/images/social_proo-img4.jpg",
+    "/images/social_proof-img6.webp",
+    "/images/social_proof-img2.jpg",
+    "/images/social_proo-img5.jpg",
+    "/images/social-proof-7.jpg",
+    "/images/social-proof8.jpg",
+    "/images/social-proof9.jpg",
   ];
   return (
     <section className="py-section-padding-mobile md:py-section-padding-desktop bg-surface-container-lowest overflow-hidden" id="proyectos">
@@ -48,7 +48,7 @@ export default function Projects() {
               alt="Project 1" 
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" 
               data-alt="A grand residential living room showcase featuring high-end PVC ceiling panels and professional white drywall finishes. The lighting is integrated seamlessly, highlighting the precise alignment of all structural elements. The furniture is contemporary, complementing the architectural rigor of the space. Bright, natural daylight creates a premium, trust-inspiring atmosphere." 
-              src="images/social_proof-img1.jpg"
+              src="/images/social_proof-img1.jpg"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-8 flex flex-col justify-end">
               <span className="text-white/80 font-label-sm text-label-sm uppercase">Cielo Raso en PVC</span>
@@ -62,7 +62,7 @@ export default function Projects() {
               alt="Project 2" 
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" 
               data-alt="A modern office corridor showing professional WPC wall cladding and PVC flooring. The lines are perfectly straight, reflecting architectural excellence. The lighting is cool and professional, with high contrast between the dark cladding and bright walls. The style is strictly minimal and corporate." 
-              src="images/social_proof-img2.jpg"
+              src="/images/social_proof-img2.jpg"
             />
             <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-4 flex flex-col justify-end">
               <h4 className="text-white font-label-bold text-label-bold">Sala de Estar</h4>
@@ -75,7 +75,7 @@ export default function Projects() {
               alt="Project 3" 
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" 
               data-alt="Close-up of a high-end air conditioning installation in a luxury bedroom. The unit is perfectly leveled on a textured white wall. The finish is impeccable, showing the precision of the installation service provided by the company. The lighting is warm and domestic yet retains a high-key professional look." 
-              src="images/cocina-integral.jpg"
+              src="/images/cocina-integral.jpg"
             />
             <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-4 flex flex-col justify-end">
               <h4 className="text-white font-label-bold text-label-bold">Cocinas Integrales</h4>
@@ -88,7 +88,7 @@ export default function Projects() {
               alt="Project 4" 
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" 
               data-alt="A wide shot of a modern retail space with professional electrical and lighting work. Geometric LED light strips are integrated into a sleek PVC ceiling. The space is bright, energetic, and perfectly finished. The floor is a high-gloss PVC that reflects the lighting, creating a sense of luxury and space." 
-              src="images/social_proo-img3.jpg"
+              src="/images/social_proo-img3.jpg"
             />
             <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-4 flex flex-col justify-end">
               <h4 className="text-white font-label-bold text-label-bold">Drywall</h4>

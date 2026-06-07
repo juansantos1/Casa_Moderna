@@ -77,7 +77,7 @@ export const NavbarLogo = ({ className }) => {
       <img 
         alt="PVC Casa Moderna Logo" 
         className="h-16 md:h-20 w-auto transition-all duration-300 object-contain" 
-        src="images/hero_section-logo_sinfondo.png" 
+        src="/images/hero_section-logo_sinfondo.png" 
       />
     </div>
   );

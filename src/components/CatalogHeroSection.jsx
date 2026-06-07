@@ -5,10 +5,10 @@ import BlurText from "./ui/blur-text";
 
 export default function CatalogHeroSection() {
   const images = [
-    "images/hero-catalogo-igm1.jpg",
-    "images/hero-catalogo-img2.webp",
-    "images/hero-catalogo-img3.jpg",
-    "images/hero-catalogo-img4.jpg",
+    "/images/hero-catalogo-igm1.jpg",
+    "/images/hero-catalogo-img2.webp",
+    "/images/hero-catalogo-img3.jpg",
+    "/images/hero-catalogo-img4.jpg",
   ];
 
   return (

@@ -55,7 +55,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   title="Instagram"
                 >
-                  <img src="images/logotipo-instagram.png" alt="Instagram" className="w-6 h-6 object-contain" />
+                  <img src="/images/logotipo-instagram.png" alt="Instagram" className="w-6 h-6 object-contain" />
                 </a>
 
                 {/* Facebook */}
@@ -66,7 +66,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   title="Facebook"
                 >
-                  <img src="images/logotipo-facebook.png" alt="Facebook" className="w-6 h-6 object-contain" />
+                  <img src="/images/logotipo-facebook.png" alt="Facebook" className="w-6 h-6 object-contain" />
                 </a>
 
                 {/* TikTok (No redirect) */}
@@ -74,7 +74,7 @@ export default function Contact() {
                   className="p-2 bg-surface-container rounded-full border border-outline-variant w-12 h-12 flex items-center justify-center opacity-85 select-none"
                   title="TikTok (Muy pronto)"
                 >
-                  <img src="images/logotipo-tik-tok.png" alt="TikTok" className="w-6 h-6 object-contain filter grayscale" />
+                  <img src="/images/logotipo-tik-tok.png" alt="TikTok" className="w-6 h-6 object-contain filter grayscale" />
                 </div>
 
                 {/* Google Maps */}
@@ -85,7 +85,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   title="Google Maps"
                 >
-                  <img src="images/logotipo-google-maps.png" alt="Google Maps" className="w-6 h-6 object-contain" />
+                  <img src="/images/logotipo-google-maps.png" alt="Google Maps" className="w-6 h-6 object-contain" />
                 </a>
               </div>
             </div>
@@ -102,7 +102,7 @@ export default function Contact() {
               alt="Mapa de Ubicación" 
               className="w-full h-full object-cover" 
               data-location="Neiva, Huila" 
-              src="images/contacto-google_maps-image.png"
+              src="/images/contacto-google_maps-image.png"
             />
           </a>
         </div>

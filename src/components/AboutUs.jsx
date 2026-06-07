@@ -17,7 +17,7 @@ export default function AboutUs() {
               alt="Interior Moderno" 
               className="rounded-[30px] w-full h-full object-cover object-top -mt-3 hover:scale-110 transition-transform duration-700 cursor-pointer" 
               data-alt="A sophisticated modern interior design showing high-end architectural finishes. The room features clean lines, white walls, and elegant blue accents that reflect the corporate identity. Sunlight floods the space through large windows, highlighting the precision of the PVC and drywall installations. The atmosphere is professional, spacious, and extremely clean." 
-              src="images/abaout_us-section-local_casa_moderna.png"
+              src="/images/abaout_us-section-local_casa_moderna.png"
             />
           </div>
           <div>

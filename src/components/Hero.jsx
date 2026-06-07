@@ -11,7 +11,7 @@ export default function Hero() {
     <section id="inicio" className="relative h-screen flex items-center justify-center overflow-visible -mt-28">
       {/* Background Image - positioned to cover entire viewport from top */}
       <img
-        src="images/hero-section-image.webp"
+        src="/images/hero-section-image.webp"
         alt="Hero Section Background"
         className="absolute -top-28 left-0 right-0 w-full h-[calc(100vh+112px)] object-cover z-0"
       />

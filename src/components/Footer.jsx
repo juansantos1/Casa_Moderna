@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Logo Brand Info */}
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center gap-2 mb-6">
-              <img alt="Logo" className="h-10 w-auto" src="images/hero_section-logo_sinfondo.png" />
+              <img alt="Logo" className="h-10 w-auto" src="/images/hero_section-logo_sinfondo.png" />
               <span className="text-headline-md font-headline-md font-bold text-on-surface">PVC Casa Moderna</span>
             </div>
             <p className="text-on-surface-variant font-body-md text-body-md">

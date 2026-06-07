@@ -7,7 +7,7 @@ export default function Services() {
     {
       title: "Cielos Rasos en PVC",
       description: "Instalaciones seguras y profesionales con acabados de lujo y durabilidad superior.",
-      image: "images/portafolio-cielo-rasos-PVC.webp",
+      image: "/images/portafolio-cielo-rasos-PVC.webp",
       link: "/catalogo",
       isRoute: true,
       buttonText: "Ver catálogo de colores"
@@ -15,7 +15,7 @@ export default function Services() {
     {
       title: "Revestimientos WPC y Pisos PVC",
       description: "Acabados de lujo que combinan la estética de la madera con la resistencia del PVC.",
-      image: "images/portafolio-Revestmientos_wpc.png",
+      image: "/images/portafolio-Revestmientos_wpc.png",
       link: "/catalogo",
       isRoute: true,
       buttonText: "Ver catálogo de colores"
@@ -23,7 +23,7 @@ export default function Services() {
     {
       title: "Lamina Marmol V",
       description: "Elegancia y resistencia con Lamina Mármol V.",
-      image: "images/lamina-marmol-v.jpeg",
+      image: "/images/lamina-marmol-v.jpeg",
       link: "/catalogo",
       isRoute: true,
       buttonText: "Ver catálogo de colores"
